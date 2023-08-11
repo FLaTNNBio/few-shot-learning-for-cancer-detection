@@ -1,0 +1,6 @@
+/model/
+/results/
+/heatmap/
+
+dataset.csv
+encoded-dataset.csv
